@@ -50,7 +50,7 @@ Também existem algumas dependências como por exemplo react-dom e react-modal
 
 -- É preciso ter um editor de código, [Vscode](https://code.visualstudio.com/) pode ajudar na hora de visializar a implementação.
  
- ``
+ ````
  É preciso clonar o Repositório.
  
  É preciso ter instalado o yarn em sua maquina.
@@ -60,7 +60,7 @@ Também existem algumas dependências como por exemplo react-dom e react-modal
  Pós as dependencias serem instaladas no terminal do Vs code rode o comando yarn start
   
  Entre em http://localhost:8080/ elá estará o projeto.
- ``
+ ````
 
 
 
