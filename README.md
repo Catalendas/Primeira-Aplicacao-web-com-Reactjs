@@ -57,9 +57,11 @@ Também existem algumas dependências como por exemplo react-dom e react-modal
  
  No terminal dentro da pasta rode o comando yarn para instalar as dependencias.
  
- Pós as dependencias serem instaladas no terminal do Vs code rode o comando yarn start
+ Pós as dependencias serem instaladas no terminal do Vs code rode o comando yarn start.
+ 
+ Rode também o comando yarn dev, pós o comando ter sido executado entre em http://localhost:3000/ elá estará o projeto. 
   
- Entre em http://localhost:8080/ elá estará o projeto.
+
  ````
 
 
